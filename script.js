@@ -1,5 +1,5 @@
 const introText = document.querySelector(".text-intro");
-introText.innerHTML = `¡Hola! Tire del cordón😊❤️.`;
+introText.innerHTML = `Arraste pra baixo pra ter uma surpresa!`;
 const engine = Matter.Engine.create();
 const world = engine.world;
 
